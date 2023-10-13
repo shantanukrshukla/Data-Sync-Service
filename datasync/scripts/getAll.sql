@@ -1,0 +1,1 @@
+SELECT id, email, first_name, password FROM `users`

@@ -1,0 +1,439 @@
+12023-10-08 03:09:35,423 - kuberCart - INFO - [Main] -
+    K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+    K  K   U   U  B   B E     R   R C     A A  R   R    T  
+    KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+    K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+    K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-08 03:09:35,424 - kuberCart - INFO - [Main] - starting data sync service
+2023-10-08 03:09:35,424 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-08 03:09:35,445 - kuberCart - INFO - [DataModel] - database connected successfully
+2023-10-08 03:09:35,447 - kuberCart - DEBUG - [DataModel] - queries are executed successfully.
+2023-10-08 03:09:35,447 - kuberCart - DEBUG - [DataModel] - [
+    {
+        "id": 1,
+        "email": "admin@example.com",
+        "first_name": "Admin",
+        "password": "$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bnpwQHs0jNe"
+    },
+    {
+        "id": 2,
+        "email": "user1@example.com",
+        "first_name": "John",
+        "password": "password1"
+    },
+    {
+        "id": 3,
+        "email": "user2@example.com",
+        "first_name": "Jane",
+        "password": "password2"
+    },
+    {
+        "id": 4,
+        "email": "user3@example.com",
+        "first_name": "Bob",
+        "password": "password3"
+    },
+    {
+        "id": 5,
+        "email": "user4@example.com",
+        "first_name": "Alice",
+        "password": "password4"
+    },
+    {
+        "id": 6,
+        "email": "user5@example.com",
+        "first_name": "Eve",
+        "password": "password5"
+    }
+]
+2023-10-08 03:09:35,457 - kuberCart - INFO - [RedisIni] - Value in Redis key 'userDetails': [
+    {
+        "id": 1,
+        "email": "admin@example.com",
+        "first_name": "Admin",
+        "password": "$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bnpwQHs0jNe"
+    },
+    {
+        "id": 2,
+        "email": "user1@example.com",
+        "first_name": "John",
+        "password": "password1"
+    },
+    {
+        "id": 3,
+        "email": "user2@example.com",
+        "first_name": "Jane",
+        "password": "password2"
+    },
+    {
+        "id": 4,
+        "email": "user3@example.com",
+        "first_name": "Bob",
+        "password": "password3"
+    },
+    {
+        "id": 5,
+        "email": "user4@example.com",
+        "first_name": "Alice",
+        "password": "password4"
+    },
+    {
+        "id": 6,
+        "email": "user5@example.com",
+        "first_name": "Eve",
+        "password": "password5"
+    }
+]
+2023-10-08 03:09:35,457 - kuberCart - INFO - [RedisIni] - last time synced at: 1696714775
+2023-10-08 12:37:05,793 - kuberCart - INFO - [Main] - 
+    K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+    K  K   U   U  B   B E     R   R C     A A  R   R    T  
+    KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+    K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+    K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-08 12:37:05,794 - kuberCart - INFO - [Main] - starting data sync service
+2023-10-08 12:37:05,794 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-08 12:37:05,813 - kuberCart - INFO - [DataModel] - database connected successfully
+2023-10-08 12:37:05,816 - kuberCart - DEBUG - [DataModel] - queries are executed successfully.
+2023-10-08 12:37:05,816 - kuberCart - DEBUG - [DataModel] - [
+    {
+        "id": 1,
+        "email": "admin@example.com",
+        "first_name": "Admin",
+        "password": "$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bnpwQHs0jNe"
+    },
+    {
+        "id": 2,
+        "email": "user1@example.com",
+        "first_name": "John",
+        "password": "password1"
+    },
+    {
+        "id": 3,
+        "email": "user2@example.com",
+        "first_name": "Jane",
+        "password": "password2"
+    },
+    {
+        "id": 4,
+        "email": "user3@example.com",
+        "first_name": "Bob",
+        "password": "password3"
+    },
+    {
+        "id": 5,
+        "email": "user4@example.com",
+        "first_name": "Alice",
+        "password": "password4"
+    },
+    {
+        "id": 6,
+        "email": "user5@example.com",
+        "first_name": "Eve",
+        "password": "password5"
+    },
+    {
+        "id": 7,
+        "email": "shantanukumar.shukla@bd.com",
+        "first_name": "",
+        "password": "shantanu26"
+    }
+]
+2023-10-08 12:37:05,823 - kuberCart - INFO - [RedisIni] - Value in Redis key 'userDetails': [
+    {
+        "id": 1,
+        "email": "admin@example.com",
+        "first_name": "Admin",
+        "password": "$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bnpwQHs0jNe"
+    },
+    {
+        "id": 2,
+        "email": "user1@example.com",
+        "first_name": "John",
+        "password": "password1"
+    },
+    {
+        "id": 3,
+        "email": "user2@example.com",
+        "first_name": "Jane",
+        "password": "password2"
+    },
+    {
+        "id": 4,
+        "email": "user3@example.com",
+        "first_name": "Bob",
+        "password": "password3"
+    },
+    {
+        "id": 5,
+        "email": "user4@example.com",
+        "first_name": "Alice",
+        "password": "password4"
+    },
+    {
+        "id": 6,
+        "email": "user5@example.com",
+        "first_name": "Eve",
+        "password": "password5"
+    },
+    {
+        "id": 7,
+        "email": "shantanukumar.shukla@bd.com",
+        "first_name": "",
+        "password": "shantanu26"
+    }
+]
+2023-10-08 12:37:05,823 - kuberCart - INFO - [RedisIni] - last time synced at: 1696748825
+2023-10-09 16:55:37,370 - kuberCart - INFO - [Main] - 
+    K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+    K  K   U   U  B   B E     R   R C     A A  R   R    T  
+    KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+    K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+    K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-09 16:55:37,370 - kuberCart - INFO - [Main] - starting data sync service
+2023-10-09 16:55:37,370 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-09 17:24:01,280 - kuberCart - INFO - [Main] - 
+    K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+    K  K   U   U  B   B E     R   R C     A A  R   R    T  
+    KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+    K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+    K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-09 17:24:01,280 - kuberCart - INFO - [Main] - starting data sync service
+2023-10-09 17:24:01,280 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-09 17:28:40,783 - kuberCart - INFO - [Main] - 
+    K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+    K  K   U   U  B   B E     R   R C     A A  R   R    T  
+    KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+    K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+    K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-09 17:28:40,783 - kuberCart - INFO - [Main] - starting data sync service
+2023-10-09 17:28:40,783 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-09 17:31:01,004 - kuberCart - INFO - [Main] - 
+    K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+    K  K   U   U  B   B E     R   R C     A A  R   R    T  
+    KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+    K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+    K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-09 17:31:01,004 - kuberCart - INFO - [Main] - starting data sync service
+2023-10-09 17:31:01,004 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-09 17:31:01,033 - kuberCart - INFO - [DataModel] - database connected successfully
+2023-10-09 17:31:01,046 - kuberCart - DEBUG - [DataModel] - queries are executed successfully.
+2023-10-09 17:31:01,046 - kuberCart - DEBUG - [DataModel] - [
+    {
+        "id": 1,
+        "email": "admin@example.com",
+        "first_name": "Admin",
+        "password": "$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bnpwQHs0jNe"
+    },
+    {
+        "id": 2,
+        "email": "user1@example.com",
+        "first_name": "John",
+        "password": "password1"
+    },
+    {
+        "id": 3,
+        "email": "user2@example.com",
+        "first_name": "Jane",
+        "password": "password2"
+    },
+    {
+        "id": 4,
+        "email": "user3@example.com",
+        "first_name": "Bob",
+        "password": "password3"
+    },
+    {
+        "id": 5,
+        "email": "user4@example.com",
+        "first_name": "Alice",
+        "password": "password4"
+    },
+    {
+        "id": 6,
+        "email": "user5@example.com",
+        "first_name": "Eve",
+        "password": "password5"
+    },
+    {
+        "id": 7,
+        "email": "shantanukumar.shukla@bd.com",
+        "first_name": "",
+        "password": "shantanu26"
+    },
+    {
+        "id": 8,
+        "email": "shantanukumarshukla@gmail.com",
+        "first_name": "",
+        "password": "qwerty"
+    }
+]
+2023-10-09 17:31:01,056 - kuberCart - INFO - [RedisIni] - Value in Redis key 'userDetails': [
+    {
+        "id": 1,
+        "email": "admin@example.com",
+        "first_name": "Admin",
+        "password": "$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bnpwQHs0jNe"
+    },
+    {
+        "id": 2,
+        "email": "user1@example.com",
+        "first_name": "John",
+        "password": "password1"
+    },
+    {
+        "id": 3,
+        "email": "user2@example.com",
+        "first_name": "Jane",
+        "password": "password2"
+    },
+    {
+        "id": 4,
+        "email": "user3@example.com",
+        "first_name": "Bob",
+        "password": "password3"
+    },
+    {
+        "id": 5,
+        "email": "user4@example.com",
+        "first_name": "Alice",
+        "password": "password4"
+    },
+    {
+        "id": 6,
+        "email": "user5@example.com",
+        "first_name": "Eve",
+        "password": "password5"
+    },
+    {
+        "id": 7,
+        "email": "shantanukumar.shukla@bd.com",
+        "first_name": "",
+        "password": "shantanu26"
+    },
+    {
+        "id": 8,
+        "email": "shantanukumarshukla@gmail.com",
+        "first_name": "",
+        "password": "qwerty"
+    }
+]
+2023-10-09 17:31:01,057 - kuberCart - INFO - [RedisIni] - last time synced at: 1696852861
+2023-10-11 00:08:16,580 - kuberCart - INFO - [Main] - 
+    K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+    K  K   U   U  B   B E     R   R C     A A  R   R    T  
+    KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+    K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+    K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-11 00:08:16,587 - kuberCart - INFO - [Main] - starting data sync service
+2023-10-11 00:08:16,587 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-11 00:08:16,633 - kuberCart - INFO - [DataModel] - database connected successfully
+2023-10-11 00:08:16,653 - kuberCart - DEBUG - [DataModel] - queries are executed successfully.
+2023-10-11 00:08:16,653 - kuberCart - DEBUG - [DataModel] - [
+    {
+        "id": 1,
+        "email": "admin@example.com",
+        "first_name": "Admin",
+        "password": "$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bnpwQHs0jNe"
+    },
+    {
+        "id": 2,
+        "email": "user1@example.com",
+        "first_name": "John",
+        "password": "password1"
+    },
+    {
+        "id": 3,
+        "email": "user2@example.com",
+        "first_name": "Jane",
+        "password": "password2"
+    },
+    {
+        "id": 4,
+        "email": "user3@example.com",
+        "first_name": "Bob",
+        "password": "password3"
+    },
+    {
+        "id": 5,
+        "email": "user4@example.com",
+        "first_name": "Alice",
+        "password": "password4"
+    },
+    {
+        "id": 6,
+        "email": "user5@example.com",
+        "first_name": "Eve",
+        "password": "password5"
+    },
+    {
+        "id": 7,
+        "email": "shantanukumar.shukla@bd.com",
+        "first_name": "",
+        "password": "shantanu26"
+    },
+    {
+        "id": 8,
+        "email": "shantanukumarshukla@gmail.com",
+        "first_name": "",
+        "password": "qwerty"
+    }
+]
+2023-10-11 00:08:16,720 - kuberCart - INFO - [RedisIni] - Value in Redis key 'userDetails': [
+    {
+        "id": 1,
+        "email": "admin@example.com",
+        "first_name": "Admin",
+        "password": "$2a$12$1zGLuYDDNvATh4RA4avbKuheAMpb1svexSzrQm7up.bnpwQHs0jNe"
+    },
+    {
+        "id": 2,
+        "email": "user1@example.com",
+        "first_name": "John",
+        "password": "password1"
+    },
+    {
+        "id": 3,
+        "email": "user2@example.com",
+        "first_name": "Jane",
+        "password": "password2"
+    },
+    {
+        "id": 4,
+        "email": "user3@example.com",
+        "first_name": "Bob",
+        "password": "password3"
+    },
+    {
+        "id": 5,
+        "email": "user4@example.com",
+        "first_name": "Alice",
+        "password": "password4"
+    },
+    {
+        "id": 6,
+        "email": "user5@example.com",
+        "first_name": "Eve",
+        "password": "password5"
+    },
+    {
+        "id": 7,
+        "email": "shantanukumar.shukla@bd.com",
+        "first_name": "",
+        "password": "shantanu26"
+    },
+    {
+        "id": 8,
+        "email": "shantanukumarshukla@gmail.com",
+        "first_name": "",
+        "password": "qwerty"
+    }
+]
+2023-10-11 00:08:16,720 - kuberCart - INFO - [RedisIni] - last time synced at: 1696963096
